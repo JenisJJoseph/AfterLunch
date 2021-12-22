@@ -8,5 +8,5 @@ Original file is located at
 """
 
 def divide(j,k):
-  division=n/m
+  division=j/k
   return(division)
