@@ -7,6 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1IcWUqnSqurPKEO7QoEXx5UTvskIC9RXX
 """
 
-def divide():
+def divide(j,k):
   division=n/m
   return(division)
