@@ -8,7 +8,5 @@ Original file is located at
 """
 
 def divide():
-  n=int(input('enter divident:'))
-  m=int(input('enter divisor:'))
   division=n/m
   return(division)
