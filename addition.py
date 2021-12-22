@@ -9,6 +9,3 @@ Original file is located at
 
 def add(n1,n2):
   return (n1+n2)
-n1=int(input("enter your number:"))
-n2=int(input("enter your number: "))
-print()
